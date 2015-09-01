@@ -1,0 +1,30 @@
+body {
+    background: white;
+    line-height: 0;
+}
+
+header {
+	text-align: center;
+    background: #2C3970;
+    padding: 20px 20px 20px 20px;
+}
+
+button {
+    color: #2C3970;
+}
+
+.container {
+    margin: auto;
+    height: 960px;
+    width: 960px;
+    max-height: 960px;
+    max-width: 960px;
+    background-color: green;
+}
+
+.square {
+    display: inline-flex;
+    background-color: black;
+    box-sizing: border-box;
+    border: 1px solid gray;
+}
