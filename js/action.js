@@ -5,7 +5,6 @@ $(function() {
     //fn for creating the grid
     function createGrid(n) {
         for (var i = 0; i < n; i++) {
-            console.log(i);
             for (var j = 0; j < n; j++) {
                 $('.container').append('<div class="square"></div>');
             }
