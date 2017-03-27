@@ -1,7 +1,6 @@
 # jsjqproject
-My first javascript/jquery project!
-github test update
-http://www.theodinproject.com/web-development-101/javascript-and-jquery?ref=lnav
+
+An Etch-A-Sketch like browser experience made only with divs and javascript.
 
 view in browser
 https://rawgit.com/ChaseClark/jsjqproject/master/index.html
